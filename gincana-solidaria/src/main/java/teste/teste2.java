@@ -9,5 +9,7 @@ public class teste2 {
 	private String tempo(){		
 		return null;
 	}
-	
+	private void teste2(){		
+		System.out.println("não faz nada de nvo");
+	}
 }
