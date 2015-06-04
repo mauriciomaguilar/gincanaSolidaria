@@ -6,5 +6,8 @@ public class teste2 {
 	private void testegincana(){
 		System.out.println("não faz nada");
 	}
+	private String tempo(){		
+		return null;
+	}
 	
 }
