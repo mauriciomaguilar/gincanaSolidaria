@@ -1,4 +1,4 @@
-package br.com.br.gincana.service;
+package br.com.gincana.service;
 
 public interface EquipeService {
 
