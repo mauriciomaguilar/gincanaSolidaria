@@ -17,6 +17,14 @@
 			<artifactId>spring-data-jpa</artifactId>
 			<version>1.7.2.RELEASE</version>
 		</dependency>
+		
+		<!-- JSF -->
+		<dependency>
+			<groupId>javax.faces</groupId>
+			<artifactId>jsf-api</artifactId>
+			<version>2.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<!-- Configuração para Java 1.7 -->
