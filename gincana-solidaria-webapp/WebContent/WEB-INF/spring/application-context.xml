@@ -11,7 +11,7 @@
 		se não por meio do mapeamento -->
 	<bean
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-		<property name="prefix" value="/WEB-INF/views/" />
-		<property name="suffix" value=".jsf" />
+		<property name="prefix" value="/WebContent/views/" />
+		<property name="suffix" value=".html" />
 	</bean>
 </beans>
